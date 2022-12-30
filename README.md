@@ -4,7 +4,7 @@ This project is a simple JavaScript application that demonstrates my skills conn
 
 # Getting Started
 
-To get started with this project, simply clone the repository and open the index.html file in your web browser. No additional setup is required.
+To get started with this project, simply clone the repository, install the dependencies and run node app.js.
 
 # Features
 
